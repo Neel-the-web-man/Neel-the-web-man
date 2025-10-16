@@ -18,10 +18,10 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Node.js](https://img.shields.io/badge/-Node.js-grey?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-grey?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-grey?style=flat-square&logo=postgresql)
 ---
 
 ⭐️ From [Neel Kotkar](https://github.com/Neel-the-web-man)
